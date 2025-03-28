@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">
+  🇮🇳 𝘿𝙊𝘾𝙏𝙊𝙍_𝙅𝘽 ᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ 🇮🇳
+</h1>
 
-<!--
-**jbstudybot7761/jbstudybot7761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
 
-Here are some ideas to get you started:
+## Credit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🥳 Credit Goes To [@DOCTOR_JB](https://t.me/DOCTOR_JB)
+
+  
+## 🔥 Commands
+
+- **`/start`**: ⚡ check bot is alive.
+- **`/JB`**:  📁 upload txt file.
+- **`/stop`**: 🛑 stop ongoing process.
+- **`/restart`**: 🔮 restart the bot.
+- **`/cookies`**: 🍪 upload cookies file.
+- **`/e2t`**: 📝 edit txt file.
+- **`/yt2txt`**: 🗃️ create txt of yt playlist (owner).
+- **`/sudoadd`**: 🎊 add user or group or channel (owner).
+- **`/sudoremove`**: ❌ remove user or group or channel (owner).
+- **`/userlist`**: 📜 list of sudo user/group/channel.
+- **`/help`**: 🎉 for help.
+
+
